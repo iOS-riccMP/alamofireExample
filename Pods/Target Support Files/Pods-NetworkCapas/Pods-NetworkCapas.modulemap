@@ -1,0 +1,6 @@
+framework module Pods_NetworkCapas {
+  umbrella header "Pods-NetworkCapas-umbrella.h"
+
+  export *
+  module * { export * }
+}
